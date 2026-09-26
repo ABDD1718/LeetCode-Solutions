@@ -1,6 +1,6 @@
 # 📝 1539. Kth Missing Positive Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/kth-missing-positive-number/)
+🔗 [Problem Link](https://leetcode.com/problems/kth-missing-positive-number)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
