@@ -1,21 +1,12 @@
 class Solution {
 public:
-    bool isPalindrome(int x) {
-        long long rev = 0; 
-        int t=x;
-         if(x<0){
-                return false;
-            }
-        while (t != 0) {
-            int last = t % 10; 
-            rev = rev * 10 + last; 
-            t = t / 10; }
-           
-            if(x==rev){
-                return true;
-            }
-            else{
-                return false;
-            }
+    bool isPalindrome(int n) {
+        if(n<0||((n%10==0)&&n!=0)) return false;
+        int revhalf=0;
+        while(n>revhalf){
+            revhalf=revhalf*10+(n%10);
+            n/=10;
+        }
+        return n==revhalf||n==revhalf/10;
     }
 };
