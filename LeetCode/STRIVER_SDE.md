@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 3 / 76 (3.9%)
+- **Completed:** 4 / 76 (5.3%)
 
 ---
 
@@ -47,7 +47,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] LFU Cache
 
 ### 📂 Greedy & Backtracking
-- [ ] Combination Sum
+- [x] [Combination Sum](./C++/Medium/39. Combination Sum/)
 - [ ] Combination Sum II
 - [ ] Palindrome Partitioning
 - [ ] Permutations
