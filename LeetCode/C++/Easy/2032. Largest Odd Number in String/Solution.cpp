@@ -2,17 +2,9 @@ class Solution {
 public:
     string largestOddNumber(string num) {
         if(num[num.size()-1]%2!=0) return num;
-        int index=-1;
-        string str;
-        for(int i=0;i<num.size();i++){
-            if(num[i]%2!=0) index=i;
+        for(int i=num.size()-1;i>=0;i--){
+            if(num[i]%2!=0) return num.substr(0,i+1);
         }
-        if(index==-1) return "";
-        else {
-            for(int i=0;i<=index;i++){
-                str.push_back(num[i]);
-            }
-            return str;
-        }
+        return "";
     }
 };
