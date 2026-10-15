@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 65 (4.6%)
+- **Completed:** 4 / 65 (6.2%)
 
 ---
 
@@ -79,7 +79,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Make The String Great
 - [x] [Remove All Adjacent Duplicates In String](./C++/Easy/1128. Remove All Adjacent Duplicates In String/)
 - [ ] Remove All Adjacent Duplicates in String II
-- [ ] Remove All Occurrences of a Substring
+- [x] [Remove All Occurrences of a Substring](./C++/Medium/2021. Remove All Occurrences of a Substring/)
 - [ ] Reverse Substrings Between Each Pair of Parentheses
 
 ### 📂 Module  2.4: Expression Evaluation & Par
