@@ -11,6 +11,7 @@ public:
         return true;
     }
     bool validPalindrome(string s) {
+        if(s.length()==1) return true;
         int i=0;
         int j=s.length()-1;
         while(i<=j){

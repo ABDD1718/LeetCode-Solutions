@@ -8,8 +8,8 @@
 Two Pointers, String, Greedy
 
 ### 🚀 Performance
-- **Runtime:** 10 ms
-- **Memory:** 27.3 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
