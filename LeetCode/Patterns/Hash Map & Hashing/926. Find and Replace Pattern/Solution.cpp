@@ -8,8 +8,6 @@ public:
                 mapping[word[i]]=start;
                 start++;
             }
-        }
-        for(int i=0;i<word.length();i++){
             word[i]=mapping[word[i]];
         }
         return word;
