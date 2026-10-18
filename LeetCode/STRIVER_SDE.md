@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 11 / 76 (14.5%)
+- **Completed:** 12 / 76 (15.8%)
 
 ---
 
@@ -40,7 +40,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Add Two Numbers
 - [ ] Delete Node in a Linked List
 - [ ] Intersection of Two Linked Lists
-- [ ] Linked List Cycle
+- [x] [Linked List Cycle](./C++/Easy/141. Linked List Cycle/)
 - [x] [Reverse Nodes in k-Group](./C++/Hard/25. Reverse Nodes in k-Group/)
 - [x] [Palindrome Linked List](./C++/Easy/234. Palindrome Linked List/)
 - [ ] LRU Cache
