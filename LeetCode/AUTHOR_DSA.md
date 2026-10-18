@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 22 / 238 (9.2%)
+- **Completed:** 23 / 238 (9.7%)
 
 ---
 
@@ -276,7 +276,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Middle of the Linked List](./C++/Easy/908. Middle of the Linked List/)
 - [x] [Reverse Linked List](./C++/Easy/206. Reverse Linked List/)
 - [x] [Linked List Cycle](./C++/Easy/141. Linked List Cycle/)
-- [ ] Linked List Cycle II
+- [x] [Linked List Cycle II](./C++/Medium/142. Linked List Cycle II/)
 - [x] [Palindrome Linked List](./C++/Easy/234. Palindrome Linked List/)
 - [ ] Remove Nth Node From End of List
 - [ ] Delete Node in a Linked List
