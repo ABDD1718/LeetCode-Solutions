@@ -4,7 +4,7 @@ public:
         vector<int>v;
         int i=0;
         int j=i+1;
-        while(j<nums.size()&&i<nums.size()){
+        while(i<nums.size()){
              if(j==nums.size()-1){
                 if(nums[i]+nums[j]==target){
                 v.push_back(i);
