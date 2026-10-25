@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 15 / 76 (19.7%)
+- **Completed:** 16 / 76 (21.1%)
 
 ---
 
@@ -36,7 +36,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Reverse Linked List](./C++/Easy/206. Reverse Linked List/)
 - [x] [Middle of the Linked List](./C++/Easy/908. Middle of the Linked List/)
 - [ ] Merge Two Sorted Lists
-- [ ] Remove Nth Node From End of List
+- [x] [Remove Nth Node From End of List](./C++/Medium/19. Remove Nth Node From End of List/)
 - [x] [Add Two Numbers](./C++/Medium/2. Add Two Numbers/)
 - [ ] Delete Node in a Linked List
 - [ ] Intersection of Two Linked Lists
